@@ -1,0 +1,3 @@
+[06-Sep-2022 12:29:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hplogqlc/public_html/conbrid.unitglo.com/temp.php:2) in /home2/hplogqlc/public_html/conbrid.unitglo.com/temp.php on line 3
+[06-Sep-2022 12:29:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hplogqlc/public_html/conbrid.unitglo.com/temp.php:2) in /home2/hplogqlc/public_html/conbrid.unitglo.com/temp.php on line 3
+[06-Sep-2022 12:29:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hplogqlc/public_html/conbrid.unitglo.com/temp.php:2) in /home2/hplogqlc/public_html/conbrid.unitglo.com/temp.php on line 3
